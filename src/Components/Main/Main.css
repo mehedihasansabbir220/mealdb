@@ -1,0 +1,9 @@
+.main-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr ;
+}
+.meal{
+    margin-left: 25%;
+    text-align: left;
+    border-right: 1px solid black;
+}
